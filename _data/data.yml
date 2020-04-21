@@ -51,12 +51,11 @@ experiences:
       time: mar 2020
       company: ThoughtWorks
       details: |
-        Development and maintenance of web applications at DigitalTech Studio Recife. 
-        Experience in agile projects with a remote team. 
+        Development and maintenance of web applications.
         
         
         Technologies: 
-        - ES6 and TypeScript with Angular 6+ and NodeJS frameworks, Redux and MongoDB database. Jira tool for activity control and code version control with Git.
+        - Java, Spring and TDD with JUnit
 
     - role: Software Developer
       time: dez 2018 - fev 2020
