@@ -1,0 +1,135 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Talitha Medeiros
+    tagline: Consultant Developer
+    avatar: IMG_20180505_152710584.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: medeirostalitha@gmail.com
+    phone: 
+    # website: blog.webjeda.com #do not add http://
+    linkedin: talithamedeirosribeiro
+    github: talithamedeiros
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Spanish
+        level: Basic
+
+    
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Software Development Consultant with experience in specification and system development activities. As a front-end developer, I worked using JavaScript and TypeScript with Redux focusing on web frameworks, mainly using Angular 6+. As a back-end developer, I have experience in Python programming using Django and Flask frameworks. 
+education:
+    - degree: MBA in Solutions Architecture
+      university: FIAP
+      time: 2020 - 2021
+      details: 
+    - degree: Technologist Degree in Web Development
+      university: Instituto Federal da Paraíba
+      time: 2015 - 2018
+      details: 
+experiences:
+    - role: Consultant Developer
+      time: mar 2020
+      company: ThoughtWorks
+      details: |
+        Development and maintenance of web applications at DigitalTech Studio Recife. 
+        Experience in agile projects with a remote team. 
+        
+        
+        Technologies: 
+        - ES6 and TypeScript with Angular 6+ and NodeJS frameworks, Redux and MongoDB database. Jira tool for activity control and code version control with Git.
+
+    - role: Software Developer
+      time: dez 2018 - fev 2020
+      company: Accenture
+      details: |
+        Development and maintenance of web applications at DigitalTech Studio Recife. 
+        Experience in agile projects with a remote team. 
+        
+        
+        Technologies: 
+        - ES6 and TypeScript with Angular 6+ and NodeJS frameworks, Redux and MongoDB database. Jira tool for activity control and code version control with Git.
+
+    - role: Software Developer
+      time: jun 2018 - nov 2018
+      company: Paraiba's Audit Court
+      details: |
+        Software development and maintenance using Angular 6.
+
+    - role: Software Developer
+      time: apr 2017 - may 2018
+      company: IFPB
+      details: |
+        Software development and maintenance of new functionalities at the IFPB's Unified Public Administration System (SUAP).
+          
+          
+          Technologies: 
+          - Python, Django and PostgreSql
+projects:
+    title: Volunteering
+    assignments:
+      - title: Women in Data Science Recife - Ambassador (dec 2018 - aug 2019)
+        link:
+        tagline: Women in Data Science Ambassador at Recife. The WiDS, a Stanford University initiative, aims to inspire and educate data scientists worldwide, regardless of gender, and support women in the field.
+
+      - title: Women Who Code - Member (jul 2019 - ...)
+        link: 
+        tagline: Mentoring Workshops on Git, Html, Css and Javascript of Women Dev Projects, an initiative of Women Who Code Recife.
+
+publications:
+    title: Patent
+    papers:
+      - title: "Arbovis - visualização interativa de dados sobre arboviroses"
+        link: https://gru.inpi.gov.br/pePI/servlet/ProgramaServletController?Action=detail&CodPedido=27426&SearchParameter=
+        authors: Software Registration -  br BR512019002390-0
+        conference: Instituto Nacional da Propriedade Industrial
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 80%
+
+      - name: Django
+        level: 85%
+
+      - name: Flask
+        level: 80%
+
+      - name: Javascript
+        level: 90%
+
+      - name: AngularIO
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: MongoDB
+        level: 85%
+
+      - name: PostgreSQL
+        level: 80%
+
+      - name: Git
+        level: 98%
